@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "BulletScreen": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
